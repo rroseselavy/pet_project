@@ -1,4 +1,7 @@
 <ol>
-	<li> Tabby </li>
-	<li> Persian </li>
+	<li> siamese </li>
+	<li> tabby </li>
+	<li> persian </li>
+	<li> afghan </li>
+	<li> egyption </li>
 </ol>
